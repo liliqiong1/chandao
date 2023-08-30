@@ -1,0 +1,15 @@
+db_config:
+  database: zentao
+  host: 127.0.0.1
+  password: BanTang01
+  port: 3307
+  user: root
+
+product1:
+  test_assignee: wugengzhou
+  client_assignee: xuweihao
+  server_assignee: wanglong
+product3:
+  test_assignee: wugengzhou
+  client_assignee: chenyi
+  server_assignee: tangyiyou
